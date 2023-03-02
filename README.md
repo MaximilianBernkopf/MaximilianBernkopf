@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaximilianBernkopf
 - 👀 I’m interested in data, electricity, numerical mathematics, statistics and machine learning
-- 🌱 I’m currently learning to be a better software engineer
+- 🌱 I’m currently learning to be a better software/devops engineer
 - 📫 Just reach out to me
 
 <!---
